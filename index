@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <div id="header" class="encaminhamentos">
+    <b>KolloK</b>
+
+    <a href="contact.html">
+      <input type="submit" name="contactus" id="contactus" value="Contate-nos">
+    </a>
+    <a href="portfolio.html">
+      <input type="submit" name="portfolio" id="portfolio" value="Portfólio">
+    </a>
+    <a href="services.html">
+      <input type="submit" name="services" id="services" value="Serviços">
+    </a>
+    <a href="aboutme.html">
+      <input type="submit" name="" id="" value="Sobre Nós">
+    </a>
+    <a href="index.html">
+      <input type="submit" name="inicio" id="inicio" value="Início">
+    </a>
+  </div>
+
+  <div class="textinho">
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer fringilla imperdiet libero ut maximus. Nullam quam mauris, efficitur eget sollicitudin quis, fringilla sit amet metus. Nulla ut consectetur urna, eu vulputate urna. Donec metus quam, imperdiet vel erat vitae, feugiat mattis mi. Nunc ultricies congue felis, nec accumsan sapien viverra sed. Donec vulputate leo sapien, non convallis nulla porta sit amet. Nunc non dapibus sapien. Integer consectetur porttitor rhoncus. Mauris mollis leo ac velit dapibus, nec suscipit ipsum aliquet. Aenean nec molestie dui. Praesent euismod tellus purus, non faucibus sem dignissim et. Vestibulum pellentesque odio eget semper rhoncus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce pulvinar augue et mauris aliquam tristique. Aliquam porta arcu turpis, non blandit mi tempus vel.
+    </p>
+    <p>
+      Praesent quis neque dapibus, venenatis dolor vel, porta nulla. Pellentesque tincidunt sem vitae mauris pretium, pretium malesuada nisi molestie. Suspendisse sit amet convallis massa. Maecenas viverra gravida consequat. Fusce ac tortor nibh. Etiam dignissim, purus ut convallis faucibus, augue mauris vestibulum felis, non dapibus lacus augue in eros. Praesent aliquet vitae urna eu euismod.
+    </p>
+  </div>
+  
+  
+</body>
+
+</html>
